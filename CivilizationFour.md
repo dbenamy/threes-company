@@ -1,0 +1,5 @@
+I came to Civilization IV as a veteran of the series, having played Civilization II as a kid, and Civilization III right up to the present day. Both of those games worked with a straightforward ruleset and a large corpus of buildings and units that worked within (and created exceptions to) those rules. All of these games shipped with a giant fold-out poster illustrating the game's mechanics, with trees of scientific advancements and unit upgrades.
+
+Civilization IV, for me, was much less fun. The structure (which I suppose was still technically a tree) was non-linear and hard to follow, and city improvements had less obvious effects. In general, it was much harder to comprehend the entire game, even after reading most of the manual.
+
+There are certainly dynamics worth having in this game. The storytelling is pretty cool, and the "progress of civilization" is much more narrative than it was in the previous games, and the ways that religion overlays over the existing ruleset are quite interesting. Good elements, but not necessarily a great whole.

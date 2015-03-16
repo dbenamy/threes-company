@@ -1,0 +1,5 @@
+I'd played MUDs before, but never MOOs. (Due to LambdaMOO's multi-day wait for characters, I'm the only one who managed to get an account.) As an object-oriented programmer, this was immediately pretty interesting. I'd once tried to create an HTTP equivalent of this sort of game, but never followed through on it -- at least now I know that one exists.
+
+So, diving right in, the learning curve is Mons Olympus steep. You wake up in a closet and have to recall text-based gaming's rules, and a complicated database on top of that. After wandering around incoherently for awhile, I managed to create a small room ("Zach's Pacific Library"), annoy long-term players, and experiment with basic object behaviors.
+
+The expandability of this game is what appealed to me immediately; having a framework that players build upon (and interact with each other's creation through) is a great dynamic. I wish there was a little more of a sense of order, or a map of user creations, or some sort of topological hint... wandering into an infinite universe is hard enough when it makes sense.

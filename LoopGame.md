@@ -1,0 +1,7 @@
+I went to play the game, but had to install shockwave first. Then I started to go through the tutorial, but bailed out after a couple of screens. I started to play the actual game which consists of catching butterflies of the same color that move around the screen by drawing a loop around them. There are levels and at the start of each level it tells you how many points you need to finish to level. You get a point for each butterfly you catch. I learned that the level ends when you exceed the point limit, but if you get more points than you need on the last catch, you can get extra points (eg: 11 points on a 10 point level). If you catch butterflies of mixed colors you loose points.
+
+Initially it was sort of awkward to draw the loops. I'm a righty but I mouse lefty because of my RSI and I'm not as good yet as I am with my right hand. But after a couple of rounds I started getting used to it and it became more "fun".
+
+I got annoyed early on when I caught a mix of different color butterflies and lost 20 points. It said it in big red angry seeming font. I hadn't seen it say anywhere that I shouldn't do that so it seemed unfair and I felt like "why are you getting angry at me for something I didn't know about?"
+
+I think the most important inspiration/mechanic I draw from Loop is that our game doesn't have to be complicated to be enjoyable. Loop is the simplest of games but is still a good time. I don't know if simple games can be interesting, but I guess games don't have to be interesting to be good.
